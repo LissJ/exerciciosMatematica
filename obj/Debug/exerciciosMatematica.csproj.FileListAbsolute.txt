@@ -1,0 +1,7 @@
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\obj\Debug\exerciciosMatematica.csproj.AssemblyReference.cache
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\obj\Debug\exerciciosMatematica.csproj.CoreCompileInputs.cache
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\bin\Debug\exerciciosMatematica.exe.config
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\bin\Debug\exerciciosMatematica.exe
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\bin\Debug\exerciciosMatematica.pdb
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\obj\Debug\exerciciosMatematica.exe
+C:\Users\51313002828\Desktop\contasCSharp\exerciciosMatematica\exerciciosMatematica\obj\Debug\exerciciosMatematica.pdb
